@@ -1,0 +1,7 @@
+{
+    "path_logo":"logo_wmotos.png",
+    "path_bd":"wmotos.db",
+    "color_cliente":"RED",
+    "color_veiculo":"GREEN",
+    "color_telefone":"BLUE"
+}
